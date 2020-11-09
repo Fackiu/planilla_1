@@ -54,7 +54,7 @@
                 <input type="email" class="form-control form-control-lg" placeholder="Ingresá tu email...">
               </div>
               <div class="col-12 col-md-3">
-                <button type="submit" class="btn btn-block btn-lg btn-primary">Sign up!</button>
+                <button type="submit" class="btn btn-block btn-lg btn-primary">¡Resgistrate!</button>
               </div>
             </div>
           </form>
@@ -133,7 +133,7 @@
       <div class="row">
         <div class="col-lg-4">
           <div class="testimonial-item mx-auto mb-5 mb-lg-0">
-            <img class="img-fluid rounded-circle mb-3" src="img/testimonials-1.jpg" alt="">
+            <img class="img-fluid rounded-circle mb-3" src="img/testimonia-4.jpg" alt="">
             <h5>Margaret E.</h5>
             <p class="font-weight-light mb-0">"This is fantastic! Thanks so much guys!"</p>
           </div>
