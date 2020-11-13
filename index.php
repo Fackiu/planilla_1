@@ -35,7 +35,7 @@
   <nav class="navbar navbar-light bg-light static-top">
     <div class="container">
       <a class="navbar-brand" id="fuente" href="#">Arcovid</a>
-      <a class="btn btn-primary" href="#">Iniciar sesión</a>
+      <a class="btn btn-primary" href="login.php">Iniciar sesión</a>
     </div>
   </nav>
 
